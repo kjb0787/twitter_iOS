@@ -3,7 +3,9 @@
 # Twitter
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
 <img src='./twitter1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## User Stories
 
 - [x] User sees app icon in home screen and styled launch screen.
